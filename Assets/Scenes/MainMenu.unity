@@ -2823,7 +2823,7 @@ AudioSource:
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
-  Loop: 1
+  Loop: 0
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -2917,12 +2917,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d4290a2498fc81b4894976a73ba08e84, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playerShoot: {fileID: 8300000, guid: 0599eed64c4f7a045a7ab333922a15d5, type: 3}
+  playerShoot: {fileID: 8300000, guid: 87c615714b6fbfa4188270932586cd49, type: 3}
   asteroidExplosion: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
   playerDamage: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
   playerExplosion: {fileID: 8300000, guid: 3637e9f0067dce545917d8bd0bdbb13f, type: 3}
   BgMusicGameplay: {fileID: 8300000, guid: dc30e41398e6ca04f980f4e8b115e52c, type: 3}
-  BgMusicTitleScreen: {fileID: 8300000, guid: acdc7bcb97e6fe747a941bbbe4886154, type: 3}
+  BgMusicTitleScreen: {fileID: 8300000, guid: 2cb80916195cb4344b0876a542846763, type: 3}
 --- !u!4 &1337980917
 Transform:
   m_ObjectHideFlags: 0
